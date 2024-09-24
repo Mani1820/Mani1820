@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mani1820
+- 👋 Hi, I’m @Mani
 - 👀 I’m interested in developing android app 
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me manikandanmuthusamy48@gmail.com
