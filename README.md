@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mani
-- 👀 I’m interested in developing android app 
+- 👀 I’m interested in developing and desinging  
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me manikandanmuthusamy48@gmail.com
 - 😄 Pronouns: he/him 
