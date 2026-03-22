@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mani
-- 👀 I’m interested in developing and designing  
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in developing functional apps and websites solving real world problems  
+- 🌱 I’m currently learning React
 - 📫 How to reach me manikandanmuthusamy48@gmail.com
 - 😄 Pronouns: he/him 
 
